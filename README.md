@@ -14,13 +14,13 @@
 <p>Help Tanishq to find the treasure.</p>
 
 <h3>Developed By</h3>
-<table border="2px double">
+<table border="2px solid">
   <tr>
-    <td>Aatreyee Joshi</td>
-    <td>Bharvy Savaliya</td>
-    <td>Riya Shah</td>
-    <td>Tirth Patel</td>
-    <td>Prince Rupavatiya</td>
+    <td><a href="https://github.com/Aatreyee23">Aatreyee Joshi</a></td>
+    <td><a href="https://github.com/bharvy04">Bharvy Savaliya</a></td>
+    <td><a href="https://github.com/riya04a">Riya Shah</a></td>
+    <td><a href="https://github.com/tirth2894">Tirth Patel</a></td>
+    <td><a href="https://github.com/Prince-Rupavatiya">Prince Rupavatiya</a></td>
   </tr>
 </table>
 
