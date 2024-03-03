@@ -1,4 +1,4 @@
-const speed = 10;
+const speed = 10; 
 let map = document.getElementById("map");
 let camera = document.getElementById("camera");
 let player = document.getElementById("player");
