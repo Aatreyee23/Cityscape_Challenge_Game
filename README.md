@@ -5,6 +5,10 @@
   <li>The catch is that the city government is also searching for the person with the clue.</li>
   <li>Tanishq tries to pass the challenges and wants to conquer the treasure as his great grandfather's last wish.</li>
 </ul>
+<h3>Home Page</h3>
+
+![image](https://github.com/Aatreyee23/Cityscape_Challenge_Game/assets/136146209/97dd47b4-c5c4-4668-9100-710592d0270a)
+
 <h3>Places in the city</h3>
 
 ![citymap](https://github.com/Aatreyee23/Cityscape_Challenge_Game/assets/136146209/6e5e0ea9-1f17-4daf-9857-29cd6e891671)
